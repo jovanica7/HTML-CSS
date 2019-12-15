@@ -1,0 +1,172 @@
+.nav {
+  background-color: #5e0b39;
+  overflow: hidden;
+}
+
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.nav a.active {
+  background-color: #ab3d0a;
+  color: white;
+}
+
+#schedule {
+	width: 100%;
+}
+
+#schedule img {
+	width: 100%;
+	height: 100%;
+}
+
+#description {
+	width: 100%;
+	text-align: center;
+}
+
+#description h1 {
+	color: white;
+	padding-top: 20px
+}
+
+#description p {
+	color: white;
+	font-size: 17px;
+	padding-left: 10px;
+	padding-right: 10px
+}
+
+#announcements {
+	font-family: Verdana;
+	color: white;
+	float: left;
+	width: 100%;
+	margin: 0px;
+	text-align: center;
+}
+
+#facebookPage {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	text-decoration: underline
+	
+}
+
+.intro {
+	color: #400626;
+	font-weight: bold;
+	font-size: 17px
+}
+
+.intro a {
+	color: #400626
+}
+
+.workshops {
+	width: 650px;
+	height: 450px;
+	float: left;
+	display: inline-block;
+	padding: 5px;
+	color: white
+}
+
+.info {
+	width: 650px;
+	height: 300px;
+	float: left;
+	margin-bottom: 10px;
+	display: inline-block;
+	padding: 5px;
+	color: white
+}
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: white
+}
+#footer a {
+	color: #400626;
+	font-weight: bold
+}
+
+.location {
+	width: 600px;
+	height: 700px;
+	float: left;
+}
+
+.location img {
+	width: 95%;
+	height: 95%
+}
+
+#aboutSchool {
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 1.6;
+	margin: 100px;
+	font-style: italic
+}
+
+.backround-logo {
+	background-image: url("background-logo.png");
+	background-color: #822e59;
+	height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	margin: 0px  
+}
+
+.typesOfDance {
+	font-size: 18px;
+	font-family: Cambria
+}
+
+.typesOfDance a {
+	color: #400626;
+	font-weight: bold
+}
+
+.row {
+  display: flex;
+  height: 500px
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  height: 500px
+}
+
+.column img {
+	width: 100%;
+	height: 95%
+}
+	
+
+
+
+
+
+	
+	
